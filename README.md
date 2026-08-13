@@ -21,6 +21,18 @@ completion's date).
 - Application of the `length` method
 - Application of `indexOf` method
 
+13/08/2026 - 15:35
+- Learning of the ASCII - charCodeAt() - fromCharCode() methods
+- Application of the includes() and slice() methods
+- Application of the trim() - trimStart() - trimEnd() methods
+- Learning of the prompt() method
+- Application of the toUpperCase() - toLowerCase() methods
+- Application of the replace() - replaceAll() method
+- Application of the repeat() method
+- Working with numbers and arithmetic operators + debugging
+- Working with operators behavior
+- Working with comparison and boolean operators
+
 ## Author
 
 Francesco Cole aka Yoichi dev
