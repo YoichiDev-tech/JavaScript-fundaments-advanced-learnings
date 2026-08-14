@@ -17,9 +17,9 @@ completion's date).
 
 ## Improvements / takeaways - 13/08/2026
 
-- Application of `template literals`
-- Application of the `length` method
-- Application of `indexOf` method
+- Application of template literals
+- Application of the length method
+- Application of indexOf method
 
 13/08/2026 - 15:35
 - Learning of the ASCII - charCodeAt() - fromCharCode() methods
@@ -32,6 +32,11 @@ completion's date).
 - Working with numbers and arithmetic operators + debugging
 - Working with operators behavior
 - Working with comparison and boolean operators
+
+### 14/08/2026 - 14:52
+- Application of the Math object methods
+- Working with logical operators
+- Working with the conditional loops
 
 ## Author
 
