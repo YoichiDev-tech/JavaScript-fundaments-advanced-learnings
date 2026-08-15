@@ -38,6 +38,11 @@ completion's date).
 - Working with logical operators
 - Working with the conditional loops
 
+### 15/08/2026 - 8:30
+- Application of simple functions
+- Application of boolean checker with functions
+- Combining different methods to build an Email Masker tool
+
 ## Author
 
 Francesco Cole aka Yoichi dev
