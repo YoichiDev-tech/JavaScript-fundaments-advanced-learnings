@@ -44,6 +44,9 @@ completion's date).
 - Combining different methods to build an Email Masker tool
 - Application and nesting of a ternary (the if/else block, is much cleaner and better to read)
 
+### 19/08/2026
+- Working with arrays
+
 ## Author
 
 Francesco Cole aka Yoichi dev
