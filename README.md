@@ -42,6 +42,7 @@ completion's date).
 - Application of simple functions
 - Application of boolean checker with functions
 - Combining different methods to build an Email Masker tool
+- Application and nesting of a ternary (the if/else block, is much cleaner and better to read)
 
 ## Author
 
