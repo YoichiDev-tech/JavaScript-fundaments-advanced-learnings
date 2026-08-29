@@ -33,7 +33,7 @@ completion's date).
 - Working with operators behavior
 - Working with comparison and boolean operators
 
-### 14/08/2026 - 14:52
+### 14/08/2026
 - Application of the Math object methods
 - Working with logical operators
 - Working with the conditional loops
@@ -46,6 +46,12 @@ completion's date).
 
 ### 19/08/2026
 - Working with arrays
+
+### 22/08/2026
+- Working with objects and objects methods
+
+### 28/08
+- Working with loops
 
 ## Author
 
